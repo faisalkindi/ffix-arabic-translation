@@ -1,6 +1,6 @@
 # Final Fantasy IX: Arabic Translation (v1.0.0-beta)
 
-An Arabic translation of FINAL FANTASY IX (Steam, PC) as a Memoria mod folder. It translates dialogue, battle text, menus, items, abilities, locations and character names. Arabic replaces the **English (US)** language slot.
+An Arabic translation of FINAL FANTASY IX (Steam, PC) as a Memoria mod folder. It translates dialogue, battle text, menus, items, abilities, locations and character names, plus the text drawn as images. Arabic replaces the **English (US)** language slot.
 
 العربية: انظر `README_AR.md`.
 
@@ -21,20 +21,20 @@ If the text shows as boxes or in the wrong font, the font is not installed or it
 
 ## Known limitations
 
-- Some text is drawn as images and is still in English: the title-screen buttons, the place-name cards shown when entering a new area, and the continent titles on the world map.
+- Two images stay as they are: the Tetra Master logo and the copyright line on the title screen.
 - A name you type for a character can only use Latin letters. The default names are in Arabic.
-- Works with Moguri Mod. Keep Arabic Translation above Moguri in the Mod Manager list.
+- Not tested with Moguri Mod yet. If you use it, keep Arabic Translation above Moguri in the Mod Manager list.
 - Not tested on Steam Deck or Linux. The font installer is for Windows only.
 - This is a beta: please report mistranslations, cut-off lines or display problems.
 
 ## Uninstall
 
-1. In the Memoria launcher's Mod Manager, untick Arabic Translation (or remove it), then delete the `ArabicTranslation` folder from the game folder.
-2. Optionally remove the font: double-click `ArabicTranslation\Font\Uninstall-Font.bat` (before deleting the mod folder).
+1. Optionally remove the font first: double-click `ArabicTranslation\Font\Uninstall-Font.bat`.
+2. In the Memoria launcher's Mod Manager, untick Arabic Translation (or remove it), then delete the `ArabicTranslation` folder from the game folder.
 3. English (US) is back to normal once the mod is disabled.
 
 ## Credits
 
 Translation: Enma.
 Font: Readex Pro FFIX, a modified Readex Pro (© The Readex Pro Project Authors), SIL Open Font License 1.1 (see `ArabicTranslation/Font/OFL.txt`). Uses the Memoria engine mod by Albeoris and contributors.
-FINAL FANTASY IX is a trademark of Square Enix. This is a non-commercial fan translation and contains no game files.
+FINAL FANTASY IX is a trademark of Square Enix. This is a non-commercial fan translation. It contains no game program files; it does include edited versions of the game's own text images.
