@@ -1,4 +1,4 @@
-# Final Fantasy IX: Arabic Translation (v1.0.1, beta)
+# Final Fantasy IX: Arabic Translation (v1.0.2, beta)
 
 An Arabic translation of FINAL FANTASY IX (Steam, PC) as a Memoria mod folder. It translates dialogue, battle text, menus, items, abilities, locations and character names, plus the text drawn as images. Arabic replaces the **English (US)** language slot.
 
@@ -18,7 +18,9 @@ The Arabic font is built into the mod, so there is no font to install.
 
 If the text shows as boxes or in the wrong font, check that `ArabicTranslation\FF9_Data\EmbeddedAsset\FA\p_fa.mpc` is there and that no mod above Arabic Translation changes the font.
 
-**Updating from v1.0.0-beta:** delete the old `ArabicTranslation` folder before copying the new one. The font you installed for the beta is no longer needed; you can keep it or remove "Readex Pro FFIX" in Windows Settings > Fonts.
+**Updating from an older version:** delete the old `ArabicTranslation` folder before copying the new one. If you installed the font for v1.0.0-beta, it is no longer needed; you can keep it or remove "Readex Pro FFIX" in Windows Settings > Fonts.
+
+**New in v1.0.2:** about 2,750 lines that still showed English are now in Arabic: the Evil Forest after the Prima Vista crash, Lindblum's Festival of the Hunt, Dali, the Mognet letters and other scenes.
 
 ## Known limitations
 
